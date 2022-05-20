@@ -11,6 +11,12 @@ import android.widget.SeekBar;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+
+/*
+Tên: Lý Quốc An
+MSSV: 3119410002
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = "ModernArtUI";
