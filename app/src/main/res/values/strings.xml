@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ModernArtUI</string>
+    <color name="color_pink">#ff61ca</color>
+    <color name="color_blue">#5053fa</color>
+    <color name="color_red">#fa5050</color>
+    <color name="color_skin">#ffcaa1</color>
+    <color name="color_black">#FF000000</color>
+    <color name="color_white">#FFFFFFFF</color>
+</resources>
