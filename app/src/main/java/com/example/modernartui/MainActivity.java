@@ -10,6 +10,7 @@ import android.widget.RelativeLayout;
 import android.widget.SeekBar;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.constraintlayout.widget.ConstraintLayout;
 
 
 /*
@@ -21,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = "ModernArtUI";
 
-    private RelativeLayout palette;
+    private ConstraintLayout palette;
 
     public Resources.Theme context;
     @Override
